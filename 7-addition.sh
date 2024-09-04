@@ -1,7 +1,7 @@
 #!/bin/bash
 
-NUMBER1=$1
-NUMBER2=$2
+NUM1=$1
+NUM2=$2
 
-SUM=$(($NUMBER1+$NUMBER2))
-echo "Sum of $NUMBER1 and $NUMBER2 is : $SUM "
+SUM=$(($NUM1+$NUM2))
+echo "Sum of $NUM1 and $NUM2 is : $SUM "
